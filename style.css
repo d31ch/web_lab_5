@@ -1,0 +1,95 @@
+﻿#papa{
+  
+}
+#block1{
+    height: 29px;
+    background-color:lightgrey;
+    width: 1100px;
+    margin: auto;
+}
+#header{
+    width: 980px;
+    height: 102px;
+    margin-right: auto;     
+    margin-left: auto; 
+}
+#hleft{
+    float: left;
+    width: 280px;
+    height: 100%;
+    background-color:#ffc0cb;
+}
+#hright{
+    float: right;
+    width: 700px;
+    height: 100%;
+    background-color: yellow;
+}
+#main{
+    background-color:lightgrey;
+    width: 1100px;
+    margin: auto;
+    height: 755px;
+}
+#green{
+    height: 300px;
+    background-color:greenyellow;
+    width: 1060px;
+    margin: auto;
+}
+#center{
+    width: 980px;
+    height: 455px;
+    margin-right: auto;     
+    margin-left: auto; 
+}
+#cleft{
+    float: left;
+    width: 280px;
+    height: 100%;
+    background-color:#ffba00;
+}
+#cright{
+    float: right;
+    width: 700px;
+    height: 100%;
+    background-color:blueviolet;
+}
+#predniz{
+    background-color: darkgray;
+    width: 1100px;
+    margin: auto;
+    height: 329px;
+    
+} 
+#p1{
+    margin-left: 60px;
+    width: 280px;
+    height: 100%;
+    background-color:crimson;
+    float: left;
+}
+#p2{
+    float: left;
+    width: 230px;
+    height: 100%;
+    background-color:#ffba00;
+}
+#p3{
+    float: left;
+    width: 230px;
+    height: 100%;
+    background-color:aqua;
+}#p4{
+    float: left;
+    margin-right: 60px;
+    width: 240px;
+    height: 100%;
+    background-color:darkorange;
+}
+#niz{
+    height: 73px;
+    background-color:darkslategray;
+    width: 1100px;
+    margin: auto;
+}
